@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "name": "thanh",
+      "email": "thanhlvph23422@fpt.edu.vn",
+      "password": "123@abc",
+      "id": 1
+    },
+    {
+      "email": "aaa",
+      "password": "aaa",
+      "name": "aaa",
+      "id": 2
+    },
+    {
+      "email": "qewq",
+      "password": "eqqe",
+      "name": "aaaa",
+      "id": 3
+    }
+  ]
+}
